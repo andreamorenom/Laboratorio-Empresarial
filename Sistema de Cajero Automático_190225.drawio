@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
   <diagram name="Página-1" id="tX-0k9d4C4hPjbpkWEkV">
-    <mxGraphModel dx="770" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,46 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="10" y="190" as="sourcePoint" />
             <mxPoint x="520" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V8b1W_VQC_xxBP75mCsi" name="Página-3">
+    <mxGraphModel dx="1194" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MOkEQoEhBPple7f7Bh7g-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOkEQoEhBPple7f7Bh7g-2" value="CU_02_Depositar_dinero" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MOkEQoEhBPple7f7Bh7g-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;" edge="1" parent="1" target="MOkEQoEhBPple7f7Bh7g-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="71" as="sourcePoint" />
+            <mxPoint x="260" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s17066jwFfxvGycAC6jq" name="Página-4">
+    <mxGraphModel dx="1194" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BN28L3LHYViwlmxwAB27-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BN28L3LHYViwlmxwAB27-3" value="CU_03_Retirar_dinero" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BN28L3LHYViwlmxwAB27-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BN28L3LHYViwlmxwAB27-1" target="BN28L3LHYViwlmxwAB27-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="20" y="81" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
