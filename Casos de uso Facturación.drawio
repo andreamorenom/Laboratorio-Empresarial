@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="yGIZKbdZz4FgforIp3Hw">
-    <mxGraphModel>
+    <mxGraphModel dx="1122" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rGyFQXSDW161ltPeMu2t-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="460" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-5" value="CU_01_Crea_Factura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="145" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-6" value="CU_02_Solicita_Producto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="225" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-7" value="CU_03_Selecciona_Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="305" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-8" value="CU_04_Informe_Validación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="385" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-9" value="CU_04.1_Informa_Deuda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="465" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-10" value="CU_04.2_Fin_Caso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="545" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-12" value="CU_05_Selecciona_Producto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="625" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-13" value="CU_06_Valida_Factura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="705" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-15" value="CU_07_Finaliza_Factura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="785" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGyFQXSDW161ltPeMu2t-16" value="CU_08_Confirma_Comprobante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="865" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
