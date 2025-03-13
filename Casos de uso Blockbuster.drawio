@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="8">
   <diagram name="Página-1" id="0a1UBv-05hkoor2SjSYL">
-    <mxGraphModel dx="1534" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="W-ATkEFZag7kS3Bsld1D-24" value="Sistema de Blockbuster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-530" y="50" width="233" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W-ATkEFZag7kS3Bsld1D-25" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-ATkEFZag7kS3Bsld1D-12" target="W-ATkEFZag7kS3Bsld1D-14" edge="1">
+        <mxCell id="W-ATkEFZag7kS3Bsld1D-25" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="W-ATkEFZag7kS3Bsld1D-12" target="W-ATkEFZag7kS3Bsld1D-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-473" y="469.5" as="sourcePoint" />
             <mxPoint x="-313" y="469.5" as="targetPoint" />
@@ -104,12 +104,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-93" y="240" as="sourcePoint" />
             <mxPoint x="-261" y="347" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W-ATkEFZag7kS3Bsld1D-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W-ATkEFZag7kS3Bsld1D-13" target="W-ATkEFZag7kS3Bsld1D-10" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-393" y="236.5" as="sourcePoint" />
-            <mxPoint x="-493" y="293.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W-ATkEFZag7kS3Bsld1D-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-ATkEFZag7kS3Bsld1D-22" edge="1" target="W-ATkEFZag7kS3Bsld1D-11">
@@ -122,6 +116,13 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-733" y="290" as="sourcePoint" />
             <mxPoint x="-643" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnwgIqZR5ENODmKTWZ7Z-1" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="W-ATkEFZag7kS3Bsld1D-10" target="W-ATkEFZag7kS3Bsld1D-13">
+          <mxGeometry x="-0.0065" width="160" relative="1" as="geometry">
+            <mxPoint x="-478" y="305" as="sourcePoint" />
+            <mxPoint x="-359" y="245" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
